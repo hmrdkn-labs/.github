@@ -2,7 +2,7 @@
 
 Where my tools live once they're useful to someone besides me. By [Dika](https://github.com/hamardikan).
 
-| | | |
+| | Project | Latest |
 |---|---|---|
 | 🧾 | [**Open Pajak**](https://github.com/hmrdkn-labs/open-pajak) · Indonesian tax calculator that shows every step. [Use it](https://openpajak.hamardikan.com) | [![stars](https://img.shields.io/github/stars/hmrdkn-labs/open-pajak?style=flat-square&label=stars)](https://github.com/hmrdkn-labs/open-pajak/stargazers) |
 | 🌙 | [**Agent Awake**](https://github.com/hmrdkn-labs/agent-awake) · keeps a Mac awake while coding agents work | [![release](https://img.shields.io/github/v/release/hmrdkn-labs/agent-awake?style=flat-square)](https://github.com/hmrdkn-labs/agent-awake/releases/latest) |
