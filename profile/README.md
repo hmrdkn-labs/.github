@@ -4,9 +4,9 @@
 Open-source apps and developer tools by <a href="https://github.com/hamardikan">Dika (hamardikan)</a>.</p>
 
 <p align="center">
-  <a href="https://github.com/hmrdkn-labs/open-pajak/stargazers"><img alt="Open Pajak stars" src="https://img.shields.io/github/stars/hmrdkn-labs/open-pajak?style=for-the-badge&label=Open%20Pajak%20★"></a>
+  <a href="https://github.com/hmrdkn-labs/open-pajak/stargazers"><img alt="Open Pajak stars" src="https://img.shields.io/github/stars/hmrdkn-labs/open-pajak?style=for-the-badge&label=Open%20Pajak%20stars"></a>
   <a href="https://github.com/hmrdkn-labs/homebrew-tap"><img alt="Homebrew tap" src="https://img.shields.io/badge/brew-hmrdkn--labs%2Ftap-FBB040?style=for-the-badge&logo=homebrew&logoColor=white"></a>
-  <a href="https://hamardikan.com"><img alt="Website" src="https://img.shields.io/badge/hamardikan.com-0f172a?style=for-the-badge&logo=astro&logoColor=white"></a>
+  <a href="https://hamardikan.com"><img alt="Website" src="https://img.shields.io/badge/hamardikan.com-1e40af?style=for-the-badge&logo=astro&logoColor=white"></a>
 </p>
 
 ## Use them today
